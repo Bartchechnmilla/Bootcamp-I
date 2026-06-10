@@ -37,7 +37,7 @@ Repositório central do meu portfólio profissional, desenvolvido durante o Boot
 * **O que faz:** Concentra minha documentação de carreira, competências estruturadas e serve como base para a minha página web.
 * **Tecnologias utilizadas:** Git, GitHub, Markdown e Google Workspace para planejamento.
 * **Links úteis:** * [Apresentação de Habilidades (Google Slides)](slides/Portfólio.pdf)
-    * [Currículo Técnico Detalhado (PDF)](./documentos/curriculo_felipe_b_milla.pdf)
+    * [Currículo Técnico Detalhado (PDF)](Documentos/Curriculo Felipe B Milla.pdf)
 
 ---
 
