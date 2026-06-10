@@ -36,8 +36,8 @@ A engenharia me ensina a construir soluções; a filosofia me ensina a estrutura
 Repositório central do meu portfólio profissional, desenvolvido durante o Bootcamp de Engenharia de Software.
 * **O que faz:** Concentra minha documentação de carreira, competências estruturadas e serve como base para a minha página web.
 * **Tecnologias utilizadas:** Git, GitHub, Markdown e Google Workspace para planejamento.
-* **Links úteis:** * [Apresentação de Habilidades (Google Slides)](./slides/)
-    * [Currículo Técnico Detalhado (PDF)](./documentacao/)
+* **Links úteis:** * [Apresentação de Habilidades (Google Slides)](./slides/portfólio.pdf)
+    * [Currículo Técnico Detalhado (PDF)](./documentos/curriculo_felipe_b_milla.pdf)
 
 ---
 
