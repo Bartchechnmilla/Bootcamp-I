@@ -1,0 +1,14 @@
+# Ignorar arquivos de configuração local e chaves sensíveis
+.env
+*.env.local
+chaves.txt
+secrets.json
+
+# Ignorar pastas de dependências (caso use Node.js ou Python no futuro)
+node_modules/
+__pycache__/
+.venv/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
